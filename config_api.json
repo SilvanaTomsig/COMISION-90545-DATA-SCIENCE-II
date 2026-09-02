@@ -1,0 +1,6 @@
+{
+  "api_base_url": "https://api.github.com",
+  "timeout_seg": 10,
+  "reintentos_max": 3,
+  "entorno": "desarrollo"
+}

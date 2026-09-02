@@ -1,0 +1,9 @@
+id,genero,edad,ciudad
+1,Macho,23.0,Córdoba
+2,macho,45.0,Rosario
+3,Hembra,,Córdoba
+4,hembra,31.0,
+5,,29.0,CABA
+5,hembra,29.0,CABA
+6,Macho,52.0,Rosario
+7,Hembra,,Córdoba

@@ -1,0 +1,5 @@
+{
+  "entorno": "desarrollo",
+  "max_reintentos": 3,
+  "timeout": 15
+}
